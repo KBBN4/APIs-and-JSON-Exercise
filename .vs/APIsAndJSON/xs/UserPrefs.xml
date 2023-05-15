@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{668DA0F4-49A7-412D-8E1F-9BEE15CD360D}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.APIsAndJSON PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="APIsAndJSON/OpenWeatherMapAPI.cs">
+    <Files>
+      <File FileName="APIsAndJSON/RonVSKanyeAPI.cs" Line="24" Column="41" />
+      <File FileName="APIsAndJSON/Program.cs" Line="9" Column="1" />
+      <File FileName="APIsAndJSON/OpenWeatherMapAPI.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="APIsAndJSON" expanded="True">
+            <Node name="APIsAndJSON" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="OpenWeatherMapAPI.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
